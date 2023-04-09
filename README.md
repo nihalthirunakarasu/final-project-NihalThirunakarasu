@@ -1,5 +1,5 @@
 # Project Overview
-[Click Here](https://github.com/KhyatiSatta/final-project-KhyatiSatta/wiki/Project-Overview)
+Project Overview is found here : [Click Here](https://github.com/KhyatiSatta/final-project-KhyatiSatta/wiki/Project-Overview)
 
 # Project Schedule
-[Click Here](https://github.com/users/KhyatiSatta/projects/5)
+Project Overview is found here : [Click Here](https://github.com/users/KhyatiSatta/projects/5)
